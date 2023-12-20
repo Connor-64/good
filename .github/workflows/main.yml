@@ -9,8 +9,8 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  OWNER: ${{ github.repository_owner }}
-  IMAGE_NAME: ${{ github.repository_owner }}/good123
+  OWNER: connor-64
+  IMAGE_NAME: connor-64/good123
 
 jobs:
   build-and-publish:
